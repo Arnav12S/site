@@ -1,0 +1,31 @@
+title: Explore
+description: Dive into the many facets of my work and interests.
+navigation: false
+sections:
+  - title: Strategy & Design
+    description: I'm passionate about strategic planning and product design, but I also enjoy dabbling in data analytics and coding, with a bit of AI exploration on the side.
+    color: blue
+    icon: bx:link-external
+    url: null
+    status: WIP
+
+  - title: Achievements
+    description: I've tackled numerous challenges across various domains—from strategic initiatives to hackathons and everything in between. Check out some of my victories and milestones.
+    color: cyan
+    icon: bx:link-external
+    url: null
+
+  - title: Résumé
+    description: Take a look at the projects I've been involved in and the roles I've played across different industries and countries.
+    color: purple
+    icon: bx:link-external
+    url: https://arnav.blog/cv
+
+components:
+  - id: top-tracks
+    type: Top
+    class: mb-16
+  
+  - id: website
+    type: Website
+    animation: fade-in 

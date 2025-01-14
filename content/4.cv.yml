@@ -1,0 +1,79 @@
+title: Resume
+description: Versatile and results-driven professional with expertise in strategic planning, project management, and data analysis
+navigation:
+  icon: i-heroicons-document-text
+
+header:
+  image: /resume-profile-picture.png
+  name: Arnav Sudhansh Itikyala
+  contact:
+    - icon: i-heroicons-envelope
+      text: arnav@sfr.fr
+      url: mailto:arnav@sfr.fr
+    - icon: i-heroicons-phone
+      text: +33749594204
+      url: tel:+33749594204
+    - icon: i-simple-icons-linkedin
+      text: LinkedIn Profile
+      url: https://www.linkedin.com/in/arnav-sudhansh
+
+summary: Versatile and results-driven professional with a rich background in strategic planning, project management, data analysis, and customer relationship management. Equipped with a blend of technical acumen and customer-focused experience, ready to deliver exceptional results in roles ranging from Business and Data Analysis to Customer Success and Strategic Account Management.
+
+experience:
+  - title: Freelance Business Consultant (Growth & RevOps)
+    date: December 2022 - Present
+    location: India & Europe
+    details:
+      - Conducted in-depth market research and competitive analysis to recommend strategic growth opportunities and enhance product offerings
+      - Assisted in creating & improving GTM strategies; monitored and adjusted the implementation based on market dynamics and executional challenges
+      - Presented findings and recommendations on a biweekly basis, fostering relationships and ensuring alignment on project goals tied to growth & retention
+
+  - title: Marketing - New Product
+    company: Libon
+    date: April 2021 - November 2022
+    location: Paris, France
+    details:
+      - Evaluated market trends and recommended potential expansion opportunities to CXOs, in a telecom start-up
+      - Spearheaded the gradual launch of 2 new products in 22 international markets, exercised data and market insights to plan and executed successful go-to-market strategies
+      - Modeled pricing strategies and catalogs for new product's life cycles, which led to an increase in adoption by 22% and retention by 48%
+
+  - title: Senior Operations & Strategy Manager
+    company: Awign
+    date: January 2020 - October 2020
+    location: India
+    details:
+      - Managed a team of 8 operations' executives in a fast-paced startup environment
+      - Pioneered strategic operational projects during a global crisis, adding 13% extra revenue in a month
+      - Utilized data analytics to drive process optimizations, achieving a 20% cost reduction
+
+skills:
+  - title: Analytics & Strategy
+    icon: i-heroicons-chart-bar
+    items: Strategic Planning, Data Analysis, Business Intelligence, Market Analysis
+
+  - title: Management
+    icon: i-heroicons-users
+    items: Project & Operations Management, Team Leadership, Cross-Functional Collaboration
+
+  - title: Business
+    icon: i-heroicons-currency-dollar
+    items: Financial Modeling, Cost Optimization, Customer Relationship Management
+
+  - title: Methods
+    icon: i-heroicons-cog
+    items: Agile Methodologies, Scrum, Problem-Solving, Decision Making
+
+education:
+  - title: Masters in Management of Information & Knowledge Systems
+    description: Université Paris 1 Panthéon-Sorbonne
+    location: Paris, France
+    year: 2022
+    icon: i-heroicons-academic-cap
+    url: https://www.pantheonsorbonne.fr/
+
+  - title: Master of Business Administration
+    description: Université de Bordeaux
+    location: Bordeaux, France
+    year: 2021
+    icon: i-heroicons-academic-cap
+    url: https://www.u-bordeaux.fr/ 

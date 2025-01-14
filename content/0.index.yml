@@ -1,0 +1,28 @@
+title: Arnav Sudhansh
+description: Strategist, developer, and problem solver focused on creating impactful solutions.
+navigation: false
+hero:
+  title: arnav sudhansh
+  description: strategist · developer · problem solver
+  content: |
+    I dabble in everything, but I'm no dabbler—I get things done. Great at solving problems and crunching numbers, but terrible at remembering where I put my keys. My experience spans from strategic planning to data analysis, with a bit of coding magic sprinkled in.
+
+    I'm always on the lookout for opportunities where my strategic mind can shine, where I can put my skills to work, occasionally dodge too many meetings, and still make it to bed by 10 PM. I'm a team player, ready to dive in and help out—just don't ask me to organize the office potluck.
+sections:
+  - title: what i'm up to
+    items:
+      - title: Projects
+        description: Showcasing my latest work.
+        to: /projects
+      - title: Resume
+        description: A more serious look at what I do.
+        to: /cv
+      - title: Explore
+        description: Dive into the many facets of my personal life
+        to: /explore
+      - title: Blog
+        description: My thoughts, experiments, and random musings.
+        to: /blog
+      - title: Contact
+        description: Let's chat about how I can help you solve your next big challenge.
+        to: /contact
